@@ -1,0 +1,68 @@
+[2023-09-24 19:10:27.343][DBG] [lyj][NewLocalStorageClass] return true
+[2023-09-24 19:10:27.343][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2023-09-24 19:29:02.453][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2023-09-24 19:29:02.453][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2023-09-24 19:29:02.453][DBG] [lyj][CLocalStorage::Release] success
+[2023-09-24 19:29:02.453][DBG] [lyj][DelLocalStorageClass] return true
+[2023-09-25 08:10:31.022][DBG] [lyj][NewLocalStorageClass] return true
+[2023-09-25 08:10:31.022][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2023-09-25 12:06:31.276][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2023-09-25 12:06:31.276][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2023-09-25 12:06:31.276][DBG] [lyj][CLocalStorage::Release] success
+[2023-09-25 12:06:31.276][DBG] [lyj][DelLocalStorageClass] return true
+[2024-02-09 08:38:21.950][DBG] [lyj][NewLocalStorageClass] return true
+[2024-02-09 08:38:21.950][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-02-09 08:42:00.574][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-02-09 08:42:00.574][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-02-09 08:42:00.574][DBG] [lyj][CLocalStorage::Release] success
+[2024-02-09 08:42:00.574][DBG] [lyj][DelLocalStorageClass] return true
+[2024-02-09 08:42:28.126][DBG] [lyj][NewLocalStorageClass] return true
+[2024-02-09 08:42:28.126][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-02-09 08:44:54.199][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-02-09 08:44:54.199][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-02-09 08:44:54.199][DBG] [lyj][CLocalStorage::Release] success
+[2024-02-09 08:44:54.199][DBG] [lyj][DelLocalStorageClass] return true
+[2024-02-09 08:53:37.093][DBG] [lyj][NewLocalStorageClass] return true
+[2024-02-09 08:53:37.093][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-02-09 09:44:12.455][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-02-09 09:44:12.455][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-02-09 09:44:12.455][DBG] [lyj][CLocalStorage::Release] success
+[2024-02-09 09:44:12.455][DBG] [lyj][DelLocalStorageClass] return true
+[2024-02-11 09:49:46.488][DBG] [lyj][NewLocalStorageClass] return true
+[2024-02-11 09:49:46.488][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-02-11 09:53:48.578][DBG] [lyj][NewLocalStorageClass] return true
+[2024-02-11 09:53:48.578][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-02-11 10:30:54.420][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-02-11 10:30:54.420][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-02-11 10:30:54.420][DBG] [lyj][CLocalStorage::Release] success
+[2024-02-11 10:30:54.420][DBG] [lyj][DelLocalStorageClass] return true
+[2024-06-20 20:19:18.315][DBG] [lyj][NewLocalStorageClass] return true
+[2024-06-20 20:19:18.315][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-06-20 20:26:26.405][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-06-20 20:26:26.405][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-06-20 20:26:26.405][DBG] [lyj][CLocalStorage::Release] success
+[2024-06-20 20:26:26.405][DBG] [lyj][DelLocalStorageClass] return true
+[2024-06-20 20:56:32.554][DBG] [lyj][NewLocalStorageClass] return true
+[2024-06-20 20:56:32.554][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-06-20 21:26:47.078][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-06-20 21:26:47.078][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-06-20 21:26:47.078][DBG] [lyj][CLocalStorage::Release] success
+[2024-06-20 21:26:47.078][DBG] [lyj][DelLocalStorageClass] return true
+[2024-06-20 21:53:13.814][DBG] [lyj][NewLocalStorageClass] return true
+[2024-06-20 21:53:13.819][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-06-20 21:57:56.148][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-06-20 21:57:56.148][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-06-20 21:57:56.148][DBG] [lyj][CLocalStorage::Release] success
+[2024-06-20 21:57:56.148][DBG] [lyj][DelLocalStorageClass] return true
+[2024-11-02 15:38:46.317][DBG] [lyj][NewLocalStorageClass] return true
+[2024-11-02 15:38:46.317][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-11-02 15:44:59.848][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-11-02 15:44:59.850][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-11-02 15:44:59.850][DBG] [lyj][CLocalStorage::Release] success
+[2024-11-02 15:44:59.850][DBG] [lyj][DelLocalStorageClass] return true
+[2024-11-02 15:52:00.371][DBG] [lyj][NewLocalStorageClass] return true
+[2024-11-02 15:52:00.371][DBG] [lyj][CLocalStorage::Initialize] first disk path [C:/HiLookVision/video/]
+[2024-11-02 17:16:15.862][DBG] [lyj][CLocalStorage::Release] close all opened channel
+[2024-11-02 17:16:15.862][DBG] [lyj][CLocalStorage::Release] close disk check thread
+[2024-11-02 17:16:15.862][DBG] [lyj][CLocalStorage::Release] success
+[2024-11-02 17:16:15.862][DBG] [lyj][DelLocalStorageClass] return true
